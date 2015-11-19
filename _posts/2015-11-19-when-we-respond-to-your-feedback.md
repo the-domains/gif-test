@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T20:03:47.318Z'
-dateModified: '2015-11-19T20:03:14.242Z'
+datePublished: '2015-11-19T20:09:50.703Z'
+dateModified: '2015-11-19T20:09:47.292Z'
 author: []
 title: When we respond to your feedback
 sourcePath: _posts/2015-11-19-when-we-respond-to-your-feedback.md
@@ -25,6 +25,6 @@ _type: Article
 ---
 ![](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
-# When we respond to your feedback
+# 
 
-Hurry hurry hurry
+# When we respond to your feedback
