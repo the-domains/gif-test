@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-19T19:50:31.596Z'
-dateModified: '2015-11-19T19:42:09.990Z'
+datePublished: '2015-11-19T20:10:03.111Z'
+dateModified: '2015-11-19T20:09:35.306Z'
 author: []
 title: When you got your activation email from The Grid.
+sourcePath: _posts/2015-11-19-when-you-got-your-activation-email-from-the-grid.md
+published: true
 authors: []
 publisher:
   name: giphy.com
   domain: giphy.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-19-when-you-got-your-activation-email-from-the-grid.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
