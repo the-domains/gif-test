@@ -4,28 +4,21 @@
         <description><![CDATA[gif test]]></description>
         <link>https://thegrid.ai/gif-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 20:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 20:57:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gif-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Excitedly awaiting your Grid account to be activated.]]></title>
+            <description><![CDATA[<article><h1>Excitedly awaiting your Grid account to be activated.</h1><img src="https://media.giphy.com/media/cPxRDvlSj9QKA/giphy.gif"></article>]]></description>
+            <link>http://giphy.com/gifs/epic-redux-cPxRDvlSj9QKA</link>
+            <guid isPermaLink="false">0c3fdd0c-7b7f-4812-9e5a-531405baa183</guid>
+            <pubDate>Thu, 19 Nov 2015 20:44:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When you got your activation email from The Grid.]]></title>
             <description><![CDATA[<article><h1>When you got your activation email from The Grid.</h1><img src="https://media.giphy.com/media/IxKt9HOM1mI80/giphy.gif"></article>]]></description>
             <link>http://giphy.com/gifs/excited-the-hills-lauren-conrad-IxKt9HOM1mI80</link>
             <guid isPermaLink="false">baaf5325-6f5d-4cf2-a51b-8f191346efd3</guid>
-            <pubDate>Thu, 19 Nov 2015 19:50:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When we respond to your feedback]]></title>
-            <description><![CDATA[<article><h1>When we respond to your feedback</h1><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"></article>]]></description>
-            <link>http://giphy.com/gifs/JIX9t2j0ZTN9S</link>
-            <guid isPermaLink="false">f8756eac-c825-402c-aaf5-23d0dac644e9</guid>
-            <pubDate>Thu, 19 Nov 2015 20:09:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Excitedly waiting for your activation email]]></title>
-            <description><![CDATA[<article><h1>Excitedly waiting for your activation email</h1><img src="https://media.giphy.com/media/cPxRDvlSj9QKA/giphy.gif"></article>]]></description>
-            <link>http://giphy.com/gifs/epic-redux-cPxRDvlSj9QKA</link>
-            <guid isPermaLink="false">946e4c2c-127f-49e3-af9a-068f390a4981</guid>
-            <pubDate>Thu, 19 Nov 2015 20:08:48 GMT</pubDate>
+            <pubDate>Thu, 19 Nov 2015 20:10:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
